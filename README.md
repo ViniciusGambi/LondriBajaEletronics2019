@@ -32,6 +32,7 @@ O controle das tensões é feito por dois reguladores buck por apresentarem efic
 
 Foram projetadas caixas vedadas, como as do sistema de segurança, para o sistema de instrumentação. Foram desenvolvidas duas versões das caixas de proteção nesse tempo. A primeira foi projetada em forma de gaveta, em busca de fácil manutenção caso necessário, e guardava ambas as duas PCBs. É a implementada no veículo ao fim deste projeto. A segunda versão separa as PCB’s em duas caixas, em busca de maior modularidade, e substitui os conectores que são utilizadas na primeira versão, por sensores automotivos que se conectam diretamente a PCB, para tornar a solução mais automotiva, e retirar os prensa-cabos. Essa versão será fabricada em 2020, mas o projeto já está pronto ao fim deste ciclo. 
 
+<p align="center"><img src="https://github.com/ViniciusGambi/LondriBajaEletronics2019/blob/master/.github/eletric-eletronic.jpg?raw=true"></p>
 
 ### User Interface e Registro de dados
 
