@@ -9,11 +9,12 @@
 Em Agosto de 2018, novatos na equipe, que naquele momento estava sem membros no subsistema de elétrica, topamos o desafio de mesmo sem estar cursando graduação nas áreas afins, estudar o necessário para conseguir levar um sistema de segurança robusto para a competição, que não gerasse alto número de rechecks para a equipe. A competição Regional Sul seria em outubro. Trabalhamos duro aqueles dois meses para isso. Conseguimos finalizar alguns dias antes da competição, e observando as necessidades da equipe para aquele momento, projetamos um simples sistema para aferir níveis baixos de combustível, de fabricação manual, bem simples, mas que funcionava. Conseguimos chegar na competição e o resultado foi 0 rechecks, e conseguimos uma boa nota, para sermos os marinheiros de primeira viagem. O feedback dos juízes e experiências trocadas com as demais equipes nos mostravam que o segredo era começar com pouco, mas fazer bem feito. Isso nos deu ânimo e mostrava que estávamos no caminho certo. 
 
 Iniciamos então uma nova fase. Definimos então algumas metas. O prazo final era a competição Nacional em março de 2020. Colheríamos mais feedbacks dos juízes nas competições Nacional de 2019, em fevereiro, e Regional Sul de 2020.
-Implementar o primeiro sistema de instrumentação desenvolvido pela equipe
-Otimizar a proteção contra líquidos do então atual sistema de segurança da equipe
-Desenvolver um sensor de baixo custo para aferir o deslocamento da suspensão
-Desenvolver um aplicativo que facilitasse o processo de fazer inspeções de segurança
-Redução de massa total do sistema
+
+- Implementar o primeiro sistema de instrumentação desenvolvido pela equipe
+- Otimizar a proteção contra líquidos do então atual sistema de segurança da equipe
+- Desenvolver um sensor de baixo custo para aferir o deslocamento da suspensão
+- Desenvolver um aplicativo que facilitasse o processo de fazer inspeções de segurança
+- Redução de massa total do sistema
 
 ### A instalação elétrica
 
