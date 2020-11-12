@@ -20,6 +20,8 @@ Iniciamos então uma nova fase. Definimos então algumas metas. O prazo final er
 
 Toda a instalação elétrica do veículo foi novamente projetada em busca de reduzir a massa total do sistema, torná-la mais robusta e mais resistente a líquidos, e mais modular em busca de acelerar o processo de manutenção. O chicote foi fabricado  com tubo anti chamas, conectores IP66, prensa-cabos.Foram projetadas caixas vedadas, fabricadas com impressão 3d e borrachas para a proteção contra líquidos dos botões de emergência.
 
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/eletric-setup.jpg"></p>
+
 ### Sensoriamento
 
 Seguindo o princípio de fazer algo enxuto, simples porém bem feito, para essa primeira versão foi optado por aferir 3 grandezas: RPM do motor, velocidade do veículo e nível de combustível. Os métodos escolhido para RPM foi extrair os pulsos gerados na bobina da vela, para a velocidade foi o posicionamento de um sensor indutivo no eixo da roda para contagem de pulsos, e para o combustível posicionar sensores capacitivos digitais externos ao tanque (visto que a competição proíbe utilizar sensores dentro do tanque). Mais detalhes podem ser vistos nos repositórios individuais (a serem criados).
@@ -38,6 +40,8 @@ Foram projetadas caixas vedadas, como as do sistema de segurança, para o sistem
 ### User Interface e Registro de dados
 
 Para exibir os dados aferidos pelo sistema de instrumentação, foi desenhada uma interface para a exibição dos dados. Para o registro de dados para análises, foi desenvolvido um aplicativo Android que faz registro (como um data logger) dos dados expostos na Serial. (link aqui)
+
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/ui.jpg"></p>
 
 ### Validação
 
