@@ -55,4 +55,8 @@ Todas as grandezas aferidas foram validadas e ajustadas com equipamentos com val
 
 A partir de uma necessidade do subsistema de suspensão, que precisava de dados de deslocamento da suspensão, verificamos a possibilidade da compra de um sensor para isso. Como o valor escapava ao orçamento, buscamos uma forma de aferir essa grandeza com um sensor de baixo custo. Inicialmente realizamos alguns testes com um acelerômetro MPU6050, entretanto em virtude da baixa precisão do sensor, o acúmulo de erros ao longo do tempo tornava inviável a integral da aceleração para retirar o deslocamento. Desenvolvemos então uma solução melhor, barata, mais robusta, e com grande precisão com impressão 3D, duas barras lineares e um encoder óptico aproveitados de uma impressora velha. Esse projeto pode ser visualizado nesse outro repositório (a ser upado). 
 
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/displacement-sensor.jpg"></p>
+
 Outro projeto desenvolvido no ano foi um aplicativo para tornar fácil e rápido o processo da inspeção de segurança, possibilitando que a equipe os faça com mais frequência, com o objetivo de ajudar na redução dos rechecks da equipe. O link do repositório desse projeto será adicionado aqui.
+
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/inspection-app.jpg"></p>
