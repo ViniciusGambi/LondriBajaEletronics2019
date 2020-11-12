@@ -37,6 +37,8 @@ Foram projetadas caixas vedadas, como as do sistema de segurança, para o sistem
 
 <p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/eletric-eletronic.jpg"></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/new-project.jpg"></p>
+
 ### User Interface e Registro de dados
 
 Para exibir os dados aferidos pelo sistema de instrumentação, foi desenhada uma interface para a exibição dos dados. Para o registro de dados para análises, foi desenvolvido um aplicativo Android que faz registro (como um data logger) dos dados expostos na Serial. (link aqui)
@@ -46,6 +48,8 @@ Para exibir os dados aferidos pelo sistema de instrumentação, foi desenhada um
 ### Validação
 
 Todas as grandezas aferidas foram validadas e ajustadas com equipamentos com valores de referência confiáveis. A validação de RPM do motor foi feita por meio de um tacômetro óptico em bancada. Os valores de combustível foram validados em laboratório. Para a velocidade, pela falta de acesso a um equipamento calibrado de referência, desenvolvemos uma aplicação que extrai os dados de velocidade do aplicativo Waze (por ser a fonte mais segura acessível a equipe) por processamento de imagem, e os guarda registrados em função do tempo em uma planilha para a análise e comparação posterior.
+
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/validation.jpg"></p>
 
 ### Extra
 
