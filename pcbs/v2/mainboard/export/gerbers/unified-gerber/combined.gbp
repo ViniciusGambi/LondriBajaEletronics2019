@@ -1,0 +1,18 @@
+%MOIN*%
+%OFA0B0*%
+%FSLAX34Y34*%
+%IPPOS*%
+%LPD*%
+%AMOC8*
+5,1,8,0,0,$1,22.5*%
+%AMOC80*
+5,1,8,0,0,$1,22.5*%
+G75*
+%LPD*%
+G01*
+G04 next file*
+%LPD*%
+G04 EAGLE Gerber RS-274X export*
+G75*
+G01*
+M02*

@@ -1,0 +1,106 @@
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.gbs' ----   Wed Feb 19 16:48:30 2020
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+D21   --> D111
+D22   --> D112
+D23   --> D113
+D24   --> D114
+D36   --> D115
+D37   --> D116
+D38   --> D117
+D39   --> D118
+D40   --> D119
+D41   --> D120
+D42   --> D121
+D43   --> D122
+D44   --> D123
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.GKO' ----   Wed Feb 19 16:48:30 2020
+
+D10   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.gml' ----   Wed Feb 19 16:48:30 2020
+
+D10   --> D125
+D11   --> D126
+D22   --> D127
+D23   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.gtl' ----   Wed Feb 19 16:48:30 2020
+
+D15   --> D129
+D16   --> D130
+D17   --> D131
+D18   --> D132
+D19   --> D133
+D20   --> D134
+D21   --> D135
+D22   --> D136
+D23   --> D137
+D24   --> D138
+D25   --> D139
+D42   --> D140
+D43   --> D141
+D44   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.gtp' ----   Wed Feb 19 16:48:32 2020
+
+D10   --> D143
+D11   --> D144
+D12   --> D145
+D13   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Workstation\Documents\Baja 2020\pcbs\out\unified-gerber\combined.gts' ----   Wed Feb 19 16:48:32 2020
+
+D10   --> D147
+D11   --> D148
+D12   --> D149
+D13   --> D150
+D14   --> D151
+D15   --> D152
+D16   --> D153
+D17   --> D154
+D18   --> D155
+D19   --> D156
+D20   --> D157
+D21   --> D158
+D22   --> D159
+D23   --> D160
+D24   --> D161
+D25   --> D162
+D26   --> D163
+D27   --> D164
+D28   --> D165
+D39   --> D166
+D40   --> D167
+D41   --> D168
+D42   --> D169
+D43   --> D170
+D44   --> D171
+D45   --> D172
+D46   --> D173
+D47   --> D174
+D48   --> D175
+-----------------------------------------------------------------
