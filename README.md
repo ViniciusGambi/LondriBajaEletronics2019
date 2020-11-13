@@ -62,7 +62,9 @@ Outro projeto desenvolvido no ano foi um aplicativo para tornar fácil e rápido
 
 ### Resultados
 
-Com as implementações feitas, os objetivos citados anteriormente foram atingidos. Ficamos contentes por nossa evolução nesse período. Saímos de uma equipe que não tinha notas de projeto elétrico até então para o 3º melhor projeto eletrônico do Regional Sul 2019 (entre as 31 equipes inscritas) e o 13º (entre as 78 inscritas) no Nacional 2020. 
+Com as implementações feitas, os objetivos citados anteriormente foram atingidos. Ficamos contentes por nossa evolução nesse período. Saímos de uma equipe que não tinha notas de projeto elétrico até então para o 3º melhor projeto eletrônico do Regional Sul 2019 (entre as 31 equipes inscritas) e o 13º (entre as 78 inscritas) no Nacional 2020. Deixaremos aqui também o banner da apresentação final desse projeto no Nacional de Março de 2020.
+
+<p align="center"><img src="https://raw.githubusercontent.com/ViniciusGambi/LondriBajaEletronics2019/main/.github/banner-nacional-2020.jpg"></p>
 
 ## Os autores
 
