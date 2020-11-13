@@ -64,3 +64,6 @@ Outro projeto desenvolvido no ano foi um aplicativo para tornar fácil e rápido
 
 Com as implementações feitas, os objetivos citados anteriormente foram atingidos. Ficamos contentes por nossa evolução nesse período. Saímos de uma equipe que não tinha notas de projeto elétrico até então para o 3º melhor projeto eletrônico do Regional Sul 2019 (entre as 31 equipes inscritas) e o 13º (entre as 78 inscritas) no Nacional 2020. 
 
+## Os autores
+
+Cauê Gaffo, Giovani David e Vinicius Gambi abraçaram o subsistema e lideraram esse processo. No meio de 2019, tivemos a chegada dos trainees Ana Gama, Beatriz Yukari e Victor Toshio que muito ajudaram na fabricação e manutenção do projeto, e darão os próximos passos nessa evolução.
